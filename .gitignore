@@ -3,5 +3,5 @@ include/
 Lib/
 Scripts/
 share/
-/pyvenv.ctg
+/pyvenv.cfg
 save.txt
